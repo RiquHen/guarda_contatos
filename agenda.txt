@@ -29,3 +29,5 @@ hermina         3848565768
 holanda         2947275436
 praga          837583476457
 raim           48925346457
+jordina         4654765768
+conja           3578347546
